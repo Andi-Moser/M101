@@ -12,3 +12,9 @@
 [Kapitel 1.4 - HTML Grundstruktur](https://github.com/Andi-Moser/M101/blob/main/Kapitel01-4.md)
 
 [Kapitel 1.5 - Erste HTML Seite erstellen](https://github.com/Andi-Moser/M101/blob/main/Kapitel01-5.md)
+
+## Kapitel 2 ##
+
+[Kapitel 2.1 - Tabellen](https://github.com/Andi-Moser/M101/blob/main/Kapitel02-1.md)
+
+[Kapitel 2.2 - Übungen zu Tabellen](https://github.com/Andi-Moser/M101/blob/main/Kapitel02-2.md)
