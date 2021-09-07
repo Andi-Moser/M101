@@ -18,3 +18,8 @@
 [Kapitel 2.1 - Tabellen](https://github.com/Andi-Moser/M101/blob/main/Kapitel02-1.md)
 
 [Kapitel 2.2 - Übungen zu Tabellen](https://github.com/Andi-Moser/M101/blob/main/Kapitel02-2.md)
+
+[Kapitel 2.3 - Bilder](https://github.com/Andi-Moser/M101/blob/main/Kapitel02-3.md)
+
+[Kapitel 2.4 - Links](https://github.com/Andi-Moser/M101/blob/main/Kapitel02-4.md)
+
