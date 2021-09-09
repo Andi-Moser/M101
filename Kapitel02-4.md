@@ -10,7 +10,7 @@ Link (Hyperlink) lädt der Browser automatisch die neue Seite.
 Links werden mit dem `a` Tag erstellt:
 
 ```html
-<a href="/neueseite.html" target="_blank" title="Linkbeschreibung">Angezeigter Text</a>
+<a href="/neueseite.html" target="_blank">Angezeigter Text</a>
 ```
 
 ### `href` Attribut ###
@@ -33,3 +33,21 @@ Falsch: `<a href="http:www.sluz.ch/index.html">`
 > 
 > Diese Schreibweise übernimmt das Protokoll (HTTP oder HTTPS) von der aktuellen Seite. Diese Schreibweise
 > ist besonders im Gebrauch wenn die gleiche Seite einmal auf HTTP und einmal auf HTTPS läuft (z.B. in einer Testumgebung).
+
+### `target` Attribut ###
+
+Das Target Attribut spezifiziert, in welchem Fenster oder Frame ein Link geöffnet wird. Dies war in einer Zeit wichtig,
+in welcher Websiten aus mehreren Frames aufgebaut waren (Auf einer Seite waren mehrere sog. Frames eingebaut).
+
+Heutzutage sind hauptsächlich zwei Werte relevant:
+
+*Link in neuem Fenster öffnen*
+```html
+<a href="https://www.sluz.ch/index.html" target="_blank">
+```
+
+*Link im selben Fenster öffnen*
+```html
+<a href="https://www.sluz.ch/index.html" target="_self">
+```
+> Wenn man das Attribut weglässt, wird der Link im selben Fenster geöffnet.
