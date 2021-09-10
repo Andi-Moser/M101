@@ -1,4 +1,4 @@
-$7# Kapitel 2.3 #
+# Kapitel 2.3 #
 
 ## Bilder in HTML ##
 
