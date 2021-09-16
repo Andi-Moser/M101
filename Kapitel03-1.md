@@ -56,7 +56,7 @@ dass die Schriftgrösse 20px betragen soll.
 
 ### Selektoren ###
 
-Ein Selektor (für uns vorerst) aus folgenden drei Elementen:
+Ein Selektor kann (für uns vorerst) aus drei Elementen aufgebaut sein:
 
 - Tag Namen
 - Klassenname

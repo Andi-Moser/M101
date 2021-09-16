@@ -90,9 +90,9 @@ HTML Pfad: *www.bbzw.ch/abteilungen/informatik/lehrpersonen.html*
 
 Bild Pfad: *www.bbzw.ch/bilder/informatik/uebersicht.jpg*
 
-Relativer Pfad zum Bild:
+Relativer Pfad zum Bild: ../../bilder/informatik/uebersicht.jpg
 
-Absoluter Pfad zum Bild:
+Absoluter Pfad zum Bild: /bilder/informatik/uebersicht.jpg
 
 **Aufgabe 2**
 
@@ -100,17 +100,17 @@ HTML Pfad: *www.bbzw.ch/index.html*
 
 Bild Pfad: *www.bbzw.ch/bilder/startseite/intro.jpg*
 
-Relativer Pfad zum Bild:
+Relativer Pfad zum Bild: bilder/startseite/intro.jpg
 
-Absoluter Pfad zum Bild:
+Absoluter Pfad zum Bild: /bilder/startseite/intro.jpg
 
 **Aufgabe 3**
 
 HTML Pfad: *www.bbzw.ch/abteilungen/informatik/stundenplaene/sj20-21.html*
 
-Bild Pfad: 
+Bild Pfad: www.bbzw.ch/bilder/allgemein/stundenplan.jpg
 
-Relativer Pfad zum Bild:
+Relativer Pfad zum Bild: ../../../bilder/allgemein/stundenplan.jpg
 
 Absoluter Pfad zum Bild: */bilder/allgemein/stundenplan.jpg*
 
@@ -118,8 +118,8 @@ Absoluter Pfad zum Bild: */bilder/allgemein/stundenplan.jpg*
 
 HTML Pfad: *www.bbzw.ch/abteilungen/informatik.html*
 
-Bild Pfad:
+Bild Pfad: www.bbzw.ch/bilder/abteilungen/informatik.jpg
 
 Relativer Pfad zum Bild: *../bilder/abteilungen/informatik.jpg*
 
-Absoluter Pfad zum Bild:
+Absoluter Pfad zum Bild: /bilder/abteilungen/informatik.jpg
