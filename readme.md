@@ -23,3 +23,8 @@
 
 [Kapitel 2.4 - Links](https://github.com/Andi-Moser/M101/blob/main/Kapitel02-4.md)
 
+## Kapitel 3 ##
+
+[Kapitel 3.1 - CSS Syntax](https://github.com/Andi-Moser/M101/blob/main/Kapitel03-1.md)
+
+[Kapitel 3.2 - Box Modell](https://github.com/Andi-Moser/M101/blob/main/Kapitel03-2.md)

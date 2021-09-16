@@ -14,7 +14,7 @@ Es gibt grundsätzlich drei verschiedene Darstellungsmodi welche ein Element hab
 *Inline Elemente* sind zum verstehen die Schwierigsten. Jeder Text welcher auf einer Seite angezeigt wird ist inline.
 Dies bedeutet, dass er keinen "Rahmen" bzw. keine rechteckige Box um sich hat.
 
-![Inline Element](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-1/inline.png)
+![Inline Element](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-2/inline.png)
 
 Die meisten Text-Elemente (`span`, `strong`, `a`) sind standardmässig schon inline. Ansonsten können Elemente mit der 
 CSS Eigenschaft `display: inline;` auf inline gestellt werden.
@@ -26,12 +26,12 @@ immer 100% breit, belegen immer eine rechteckige Box und alles was nach ihnen au
 
 Im Bild sehen Sie dasselbe Beispiel wie oben, nur dass hier das `<strong>` Element per CSS die Eigenschaft `display: block` erhalten hat.
 
-![Block Element](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-1/block.png)
+![Block Element](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-2/block.png)
 
 Wie Sie sehen, belegt dieses Element nun die ganze Breite und bricht den Text so um. Dies machen alle Block Elemente. Sie können zwar mit
 der CSS Eigenschaft die Breite (`width: 50%`) verkleinern, darauffolgende Elemente werden dennoch auf der nächsten Zeile dargestellt:
 
-![Block mit Breite Element](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-1/block-width.png)
+![Block mit Breite Element](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-2/block-width.png)
 
 #### Inline-Block ####
 
@@ -40,7 +40,7 @@ in eine rechteckige Box zu "zwängen" oder um mehrere Block Elemente nacheinande
 
 In folgendem Beispiel hat das `strong` Tag noch die Eigenschaft `display: inline-block;` erhalten:
 
-![Block mit Breite Element](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-1/inline-block.png)
+![Block mit Breite Element](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-2/inline-block.png)
 
 Wie Sie sehen bricht der Text am Anfang des Elements zwar um, geht aber am Ende vom fetten Text wieder auf derselben Zeile weiter.
 
@@ -104,7 +104,7 @@ eines Elementes nur bis zum Rahmen erstreckt.
 Das Box Modell eines jeden Elementes lässt sich im Inspector anzeigen. Wenn Sie ein Element angewählt haben, können Sie im rechten Tab auf "Computed" wechseln und sehen
 dann das Box Modell grafisch dargestellt:
 
-![Box Modell](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-1/inspector.png)
+![Box Modell](https://github.com/Andi-Moser/M101/raw/main/images/Kapitel03-2/inspector.png)
 
 Prägen Sie Sich dieses Modell ein! Sie werden es brauchen wenn Sie Sich beim Gesalten einer Seite nicht sicher sind, von wo ein Abstand
 zwischen zwei Elementen herkommt!
