@@ -28,3 +28,8 @@
 [Kapitel 3.1 - CSS Syntax](https://github.com/Andi-Moser/M101/blob/main/Kapitel03-1.md)
 
 [Kapitel 3.2 - Box Modell](https://github.com/Andi-Moser/M101/blob/main/Kapitel03-2.md)
+
+## Kapitel 4 ##
+
+[Kapitel 4 - Flexbox](https://github.com/IctBerufsbildungZentralschweiz/modul-101/tree/master/Tag%202/06%20Flexbox)
+(Ganzes Kapitel von ICT Berufsbildung Zentralschweiz)
