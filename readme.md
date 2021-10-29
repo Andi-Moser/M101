@@ -39,3 +39,9 @@
 ## Kapitel 5 ##
 
 [Kapitel 5 - Formulare](https://github.com/Andi-Moser/M101/blob/main/Kapitel05-1.md)
+
+## Kapitel 6 ##
+
+[Kapitel 6.1 - Responsive Web Design](https://github.com/Andi-Moser/M101/blob/main/Kapitel06-1.md)
+
+[Kapitel 6.2 - Übung zu Responsive Web Design](https://github.com/Andi-Moser/M101/blob/main/Kapitel06-2.md)
