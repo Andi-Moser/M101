@@ -45,3 +45,7 @@
 [Kapitel 6.1 - Responsive Web Design](https://github.com/Andi-Moser/M101/blob/main/Kapitel06-1.md)
 
 [Kapitel 6.2 - Übung zu Responsive Web Design](https://github.com/Andi-Moser/M101/blob/main/Kapitel06-2.md)
+
+## Kapitel 7 ##
+
+[Kapitel 7.1 - Javascript](https://github.com/Andi-Moser/M101/blob/main/Kapitel07-1.md)
