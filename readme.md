@@ -49,3 +49,7 @@
 ## Kapitel 7 ##
 
 [Kapitel 7.1 - Javascript](https://github.com/Andi-Moser/M101/blob/main/Kapitel07-1.md)
+
+## Kapitel 8 ##
+
+[Kapitel 8.1 - Javascript](https://github.com/Andi-Moser/M101/blob/main/Kapitel08-1.md)
